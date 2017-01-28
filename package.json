@@ -1,0 +1,15 @@
+{
+  "name": "complex-twitch-bot",
+  "version": "1.0.0",
+  "description": "A complex Twitch bot example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jacob \"Alca\" Foster",
+  "license": "MIT",
+  "dependencies": {
+    "ab-request": "github:alcadesign/ab-request",
+    "tmi.js": "^1.1.2"
+  }
+}
