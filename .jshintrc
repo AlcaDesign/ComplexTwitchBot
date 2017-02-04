@@ -1,0 +1,9 @@
+{
+	"node": true,
+	"esversion": 6,
+	"curly": true,
+	"quotmark": "single",
+	"maxdepth": 4,
+	"maxlen": 80,
+	"varstmt": true
+}

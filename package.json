@@ -10,6 +10,7 @@
   "license": "MIT",
   "dependencies": {
     "ab-request": "github:alcadesign/ab-request",
+    "countdown": "^2.6.0",
     "tmi.js": "^1.1.2"
   }
 }
